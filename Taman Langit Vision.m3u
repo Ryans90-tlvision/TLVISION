@@ -1,7 +1,7 @@
+DENS TV
 #################################################################################################################
 #EXTINF:-1 group-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoK6XBrh3p2JDP8NxFGpWpw-xRptnX4eYyAQ9WDiPBSOv3TPVqHu3_EBYc&s=10" group-title="DENS TV"
 #################################################################################################################
-
 #EXTINF:-1 tvg-id="3" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" group-title="DENS TV", Live Streaming 1
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -265,8 +265,8 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 #EXTINF:-1 tvg-id="88" tvg-logo="https://www.dens.tv/images/channel-logo/88.jpg" group-title="DENS TV", Sunna TV
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 
+INDIHOME TV
 #############################################################################################################################################
-
 #EXTINF:-1 group-logo="https://img.harianjogja.com/posts/2023/07/01/1140414/indihome.jpg" group-title="INDIHOME TV"
 #############################################################################################################################################
 #EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
@@ -851,12 +851,10 @@ https://hs-cors.herokuapp.com/https://cdn14jtedge.indihometv.com/dvr/139/indikid
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://hs-cors.herokuapp.com/https://cdn14jtedge.indihometv.com/dvr/139/rrinet/manifest.mpd
 
+FIRSTMEDIA
 #######################################################################################################################################
-
 #EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" group-title="FIRSTMEDIA"
 #############################################################################################################################################
-#############################################################################################################################################
-
 
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/moji.png" group-title="FIRSTMEDIA",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1683,7 +1681,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 ####################################################################################################################
-
+NASIONAL TV
 #EXTM3U  url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml"
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
