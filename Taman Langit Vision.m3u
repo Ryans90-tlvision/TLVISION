@@ -1762,6 +1762,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e77
 http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.suara.com/pictures/970x544/2020/09/15/20484-logo-indosiar.jpg" group-title="NASIONAL", INDOSIAR (Indihome TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
 #EXTINF:-1 tvg-id="Indosiar.my.id" tvg-name="Indosiar ᴴᴰ" tvg-logo="https://iili.io/JMp3wV1.png" group-title="TV NASIONAL", Indosiar Digital
 #KODIPROP:contentlookup=False
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
