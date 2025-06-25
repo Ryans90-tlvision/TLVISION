@@ -5109,6 +5109,13 @@ https://0a2dd7d74cfa42c5aa476d3b6aecd12f.mediatailor.us-east-1.amazonaws.com/v1/
 
 TV DAERAH TV
 
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-logo="https://i.imgur.com/gJp2bmI.png" group-title="TV DAERAH",Ficom Channel
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://www.vnews.click/&user-agent=ExoPlayerDemo/15.5 (Linux;Android 11) ExoPlayerLib/2.9.6&origin=https://www.vnews.click
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#KODIPROP:mimetype=application/vnd.apple.mpegurl
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9cf20a8618854bb8bf3b7891c6cb5606:7284d5c76c7f913632c715f3d5c5aa8a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -5900,4 +5907,64 @@ http://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8?app_type=web&amp;useri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h18/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Cinema_Europe_HD
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/tvposter/k+.png" group-title="MOVIES", K+ (Dens)
+http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXQoTxr7eUinhVrDg-ruJuFvWIKwTjva-lrg&s" group-title="MOVIES", MOVIE MAXSTREAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL1q0MXrsgHxal3wXQcidiEtKbju3SxwgybA&s" group-title="MOVIES",WARNER (Indi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://indihome.co.id/subsystem/cms-ih/assets/uploads/channel_list/UPLOAD-1591070449-.jpeg" group-title="MOVIES",ATV (Indi)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://streaming.indihometv.com/atm/DASH/atv/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTGwYHY5ixdrT9LyKEWaaOkMu7rYrqaTgj1A&s" group-title="MOVIES", BOOMERANG (Indi)
+https://streaming.indihometv.com/atm/DASH/boomerang/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://raw.githubusercontent.com/jkperm144/IPTV/refs/heads/main/LOGO/STUDIO%20UNIVERSAL.jpg" group-title="MOVIES" tvg-id="" , Studio Universal
+https://cdn08jtedge.indihometv.com/dassdvr/130/studiouniversal/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a7/Bioskop_Indonesia_TV.png", Bioskop Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 group-title="MOVIES" tvg-id="hitsnow.sg" tvg-logo="https://www.hitstv.com/assets/hits-now-logo-white.png",HITS NOW 
+https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Chinese_Drama_TV.png" group-title="MOVIES",Chinese Drama
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
+https://hs-cors.herokuapp.com/https://cdn14jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://images.indihometv.com/tvposter/flik.png", Flik
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Dunia_Sinema_New.png/revision/latest?cb=20210712100310" group-title="MOVIES", DUNIA SINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live27-1080FHD.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cityofeagan.com/images/Logos/ETV_2C.jpg", ETV Bioskop 1
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/etvbioskop1.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cityofeagan.com/images/Logos/ETV_2C.jpg", ETV Bioskop 2
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/etvbioskop2.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cityofeagan.com/images/Logos/ETV_2C.jpg", ETV Bioskop 3
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/etvbioskop3.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://cityofeagan.com/images/Logos/ETV_2C.jpg", ETV Bioskop 4
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/etvbioskop4.m3u8
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRkKd80SUva8b6uJfoFyKwYojnWw4oAU8N4T7SP9qT8fdfs3AewIh3a2vQ&s=10", WARKOP 24/7
+https://raw.githubusercontent.com/B-inalm3u-Custom/Dresrossa/B-inal22/warkopdki.m3u8
