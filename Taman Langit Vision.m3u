@@ -281,6 +281,12 @@ https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/194/cur
 #EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
 https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/194/lovenature/manifest.mpd
 
+#EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
+https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/194/animalplanet/manifest.mpd
+
+#EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
+https://hs-cors.herokuapp.com/https://cdn08jtedge.indihometv.com/dassdvr/194/discoveryasia/manifest.mpd
+
 
 
 
