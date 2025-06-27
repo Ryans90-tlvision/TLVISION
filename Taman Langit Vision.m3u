@@ -6257,10 +6257,16 @@ https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Pal TV
-https://v3.siar.us/paltv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", AK TV
+https://e.siar.us/live/aktv.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Bandung TV Or
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Sriwijaya TV
