@@ -6244,7 +6244,7 @@ http://27.124.81.245:1935/jektv/myStream/chunklist_w11617180.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Pal TV
-https://etslive-v3-vidio-com-tokenized.akamaized.net/stream/204/file/hls-p/ingest_204_720p/hdntl=exp=1751009178~acl=%2fstream%2f204%2ffile%2f*~id=allUsers~data=hdntl~hmac=2bc6f85e411c872491d8b9e9255bd3838e9f4c2af8d13256e2a7fb58d742c2f5/index.m3u8
+https://rcti-linier.rctiplus.id/hdntl=exp=1751031116~acl=%2F*~data=hdntl~hmac=b2f91d78e1d83e5ce35599b3819d0e25e895c66af67aec7f4bc47164269c37c7/rcti-sdi-avc1_600000=9-mp4a_96000=1.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Sriwijaya TV
