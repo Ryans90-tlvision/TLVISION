@@ -6245,6 +6245,14 @@ https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 http://27.124.81.245:1935/jektv/myStream/chunklist_w11617180.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", JEK TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", JEK TV
+https://5bf7b725107e5.streamlock.net/btv/btv/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Sriwijaya TV
 https://aps12.playlist.ttvnw.net/v1/playlist/CrUGEgTzD-zWYp5pp9NpV7PftjPkACRRqvRk3vM1IcM8xeIjG3P8d9VFK7O4pf7nVQbJ1FZzi1c9JdfZFjwBvN60GvxlMkJp7j7-N_00MkjU0CGn9vK48uTSk3yRdoW7r7zyKgE82TcjvOGKmI7sCIYbnOLtGnFyGoAN5xfPlVP1zfgE4MkmTCzOrQzMx_bp31_ONpBEzU66Xf1ov1Lg2R6lon7Tr9vTNssU2y-d8LzPFQPq9M0HPEmE1IooCNLxfEnKpCqgYAgFGHYg5ZCsuJARlhDlDYmgFhjd78a1iBdhjdHKcCe7qq35xX7ywwXouage-h5UQpaB2OdPaih5VNow2r0ID09RWkRUukvazXIfYOrLfVYk_vJ0Kl7YkDg8AfYfrJa9_OjSmeZy0tgQvreT8NTx7WWE2DiDZpNyJXFcBFdm9tHQSsigLW9EVy4gk4l4R_PWxNyMYmwV7iiDFYFUSG41jdIQDUVBz2cTcuc9FcpXihHcvM_LzMh5k9-hUIgYJFvU_FWnap2INhuTWEfpfIy7qaBs8mzIeDlMJKaR-FmO5-xOV12bZXi7hi-su-Y37Q7ocZyrGt1Ce1CtlB9AoG0FyXexgb11372OledT2DHwuYjQk6YkwpX-_-aim5fPB9SCUWYQvjd0p8eQQLVbf6uQ1Iv55SVZRhSLDIQ0mgaUXrNjqzzkX1TCE_Mi8i5lyLqfm0lRFFDMIrjxp2J4a7xDdPMHeY7rJG_ULlsfg9tkS1N-dU6LX9s3Oztngrg-iczwtJaBLGt72lO4_X5T2L78WvLOK7jRd85Td1Ynsvt9yTQ9kGCIswnBGw6kmDG_bClaptJoA6B1b_w-kx3ysFdKkel-ynUcw5eH_3iqXD_H2YY-WWchPIg9cpjmIzLiiH3i3U_HF_-qNK0ZbFtgVIyfHMeKU-4QRZVXsKCS8UbGL5DPRfuAstzRj_tBQWWAj07fJ4tqYfK-5mPUPvpiNut0OPxQ6NjpF64CkUowI08SCnBxs1uaKP5yarlIcmeawGs4D-SqCOrA6BRIBcxMEwNFZQRm2Rz2mhtxesCy9kbKf5si2qj3pIXBB3gmj9TMVtSZ9noaDB5PYFeen3_3OtASSCABKgl1cy13ZXN0LTIwzgw.m3u8
 
