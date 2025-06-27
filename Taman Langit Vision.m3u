@@ -6245,6 +6245,30 @@ https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 http://27.124.81.245:1935/jektv/myStream/chunklist_w11617180.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Efarina TV
+https://live.efarinatv.net/hls/stream.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Kawanua TV
+https://63b2dc7196c38.streamlock.net/KAWANUATV/_definst_/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Puja TV
+https://v6.siar.us/pujatv/live/chunks.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", dTVi
+https://e.siar.us/live/dtvi.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", DMTV Malang
+https://e.siar.us/live/dmtv.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", PON TV
+https://63b2dc7196c38.streamlock.net/PONTV/_definst_/myStream/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 #EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/a3/Logo_Jek_TV.png" group-title="TV DAERAH", Arek TV
 https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
 
