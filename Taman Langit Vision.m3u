@@ -6235,9 +6235,9 @@ https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
 http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
-#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://warningfm.github.io/v3/img/bCXtnI3.png?v=1.1.1.1" group-title="TV DAERAH", JAMBI TV
+#EXTINF:-1 tvg-id="BadarTV" tvg-name="BRTV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/1/15/Jambi_TV.png" group-title="TV DAERAH", JAMBI TV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w312881791.m3u8
-http://khano.nng.cloudns.us/live/m3u8/id/1375b51bb1b2c31.m3u8
+https://ams.juraganstreaming.com:5443/JambiTV/streams/livestream.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu-cindo.cenc16995.workers.dev/
