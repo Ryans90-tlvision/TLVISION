@@ -7621,6 +7621,18 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd4
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
 #KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9353&type=drm 
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
+
+#EXTINF:-1 group-title="SPORTS CHANNEL" tvg-logo="https://i.imgur.com/pj6zyon.png",STRONGMAN CHAMPIONS LEAGUE
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dxJtJAY.png" group-title="SPORTS",SPORTS TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 1
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%201.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MiExJz2.png", EUROSPORT 2
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/eurosport%202.m3u8
 ###########################################################################################################################
 VIDIO 
 
