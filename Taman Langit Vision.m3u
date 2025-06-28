@@ -9531,9 +9531,14 @@ https://btn.nowcdn.co.kr/btn/btnlive2m/playlist.m3u8
 ##########################################################################################################
 MALAYSIA
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hbUb8fA.png" group-title="MALAYSIA", ASTRO HUA HEE DAI
-#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/ASTRO%20HUA%20HEE%20DAI.m3u8
-https://smart.pendy.dpdns.org/Smart.php?id=Huahee
+#EXTINF:-1 tvg-id="AsianFoodNetwork.sg" tvg-name="AsianFoodNetwork.sg" tvg-chno="AsianFoodNetwork.sg" tvg-logo="https://i.imgur.com/INheXcE.png" group-title="MALAYSIA", ASIAN FOOD NETWORK
+#EXTVLCOPT:http-user-agent=IPTVSmartersPlayer
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/afn.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=afc_twn
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qEFUJi0.jpeg" group-title="MALAYSIA", IQIYI
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/iqiyi.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=Qiyi
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZpX2d0Q.png" group-title="MALAYSIA", WWE NETWORK
 http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
