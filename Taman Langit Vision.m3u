@@ -6387,6 +6387,21 @@ TV DAERAH TV
 #KODIPROP:mimetype=application/vnd.apple.mpegurl
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tjNZPmf.jpeg" group-title="TV DAERAH",BANJAR TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/y2bHfPR.png" group-title="TV DAERAH",TV TABALONG
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTINF:-1 group-title="TV DAERAH" tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://i.imgur.com/jOhBTBJ.png",SURABAYA TV
+https://e.siar.us/live/surabayatv.m3u8
+
+#EXTINF:0 tvg-logo="https://i.imgur.com/gwmeSTx.png" group-title="TV DAERAH",SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
+
 #EXTINF:-1 group-title="TV DAERAH" tvg-logo="https://i.imgur.com/GxgvnlS.png", JTV
 #https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/JTV.m3u8
 https://smart.pendy.dpdns.org/Smart.php?id=JTV_eko
@@ -9171,9 +9186,6 @@ https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 #EXTINF:-1 tvg-logo="https://cablechannel37.net/assets/images/main/logos/cable_channel_37.png" group-title="THAILAND", CABLE CHANNEL 37
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #################################################################################################################################################
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS", WWE NETWORK HD
-http://198.16.100.186:8278/wwe_twn/playlist.m3u8?tid=MACA9233903292339032&ct=18393&tsum=e4cbbd3b73f34348c4a58d7dc6fbd7dc
-
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/nba-tv-646502.jpg" group-title="SPORTS", NBA TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -9276,4 +9288,12 @@ https://smart.pendy.dpdns.org/Smart.php?id=go_badminton1
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/SXTcBZs.png" group-title="SPORTS", ASTRO BADMINTON 2
 https://smart.pendy.dpdns.org/Smart.php?id=go_badminton2
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS CHANNEL", ASTRO FOOTBALL
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20football.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp4
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS CHANNEL", ASTRO GRANDSTAND
+#https://raw.githubusercontent.com/zackwod/thuran9/refs/heads/main/astro%20grandstand.m3u8
+https://smart.pendy.dpdns.org/Smart.php?id=go_assp3
 
