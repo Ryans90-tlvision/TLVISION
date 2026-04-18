@@ -508,39 +508,6 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 #EXTINF:-1 tvg-logo="https://iili.io/Ju79znp.png" group-title="📁HBO STREAM", CINEMAX
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/cinemax-avc1_2500000=7-3284600346800000.mpd
 
-             HYDRA
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Box Office
-http://hydratv.pro/live/Mah2/432266432/206947.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Box Office 2
-http://hydratv.pro/live/Mah2/432266432/206946.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Action
-http://hydratv.pro/live/Mah2/432266432/206954.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Action 2
-http://hydratv.pro/live/Mah2/432266432/206953.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Horror
-http://hydratv.pro/live/Mah2/432266432/207184.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Horror 2
-http://hydratv.pro/live/Mah2/432266432/207185.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Movies
-http://hydratv.pro/live/Mah2/432266432/393212.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi
-http://hydratv.pro/live/Mah2/432266432/472277.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 2
-http://hydratv.pro/live/Mah2/432266432/472278.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 3
-http://hydratv.pro/live/Mah2/432266432/472279.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 4
-http://hydratv.pro/live/Mah2/432266432/472848.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 5
-http://hydratv.pro/live/Mah2/432266432/472849.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 6
-http://hydratv.pro/live/Mah2/432266432/472851.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 7
-http://hydratv.pro/live/Mah2/432266432/474826.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hydra" tvg-logo="https://i.postimg.cc/W4mR223c/unnamed.webp" group-title="📁HYDRA EGYPT", Hydra Sci-Fi 8
-http://hydratv.pro/live/Mah2/432266432/474827.ts
-
                SPORT TV
 
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="📁SPORTV",Sportv 1
@@ -558,23 +525,7 @@ https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv6.m3u
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/27/39/8c/27398cb609d784b8cd51270096029904.jpg" group-title="📁SPORTV",Sportv 7
 https://raw.githubusercontent.com/Cutsiffa/Bin/refs/heads/main/splus/Sprttv7.m3u8
 
-
-                 ALWAN SPORT
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="📁ALWAN SPORT",Alwan Sport
-http://hydratv.pro/live/Mah2/432266432/575344.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="📁ALWAN SPORT",Alwan Sport 2
-http://hydratv.pro/live/Mah2/432266432/575343.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="📁ALWAN SPORT",Alwan Sport 3
-http://hydratv.pro/live/Mah2/432266432/575342.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="📁ALWAN SPORT",Alwan Sport 4
-http://hydratv.pro/live/Mah2/432266432/575341.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="📁ALWAN SPORT",Alwan Sport 5
-http://hydratv.pro/live/Mah2/432266432/575340.ts
-#EXTINF:-1 tvg-id="" tvg-name="AlwanSport" tvg-logo="https://i.postimg.cc/9XvNkQjH/images.jpg" group-title="📁ALWAN SPORT",Alwan Sport 6
-http://hydratv.pro/live/Mah2/432266432/575339.ts
-
               BEIN V+
-
 #EXTINF:-1 group-title="📁BEIN V+" tvg-logo="https://i.pinimg.com/236x/8e/31/16/8e3116d1e2805f14b560263e982daf1e.jpg", Bein 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -619,52 +570,3 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://a83aivottlinear-a.akamaihd.net/OTTB/syd-
-
-
-
-
-
-               BEIN
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN
-http://hydratv.pro/live/Mah2/432266432/415747.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 2
-http://hydratv.pro/live/Mah2/432266432/415746.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 3
-http://hydratv.pro/live/Mah2/432266432/415745.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 4
-http://hydratv.pro/live/Mah2/432266432/406820.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 5
-http://hydratv.pro/live/Mah2/432266432/415743.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 6
-http://hydratv.pro/live/Mah2/432266432/415742.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 7
-http://hydratv.pro/live/Mah2/432266432/415741.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 8
-http://hydratv.pro/live/Mah2/432266432/415740.ts
-#EXTINF:-1 group-title="📁BEIN" tvg-logo="https://i.pinimg.com/originals/20/f8/53/20f853787e15c584b40cb92aee225029.png",BEIN 9
-http://hydratv.pro/live/Mah2/432266432/415739.ts
-
-               YES SPORT
-#EXTINF:-1 group-title="📁YES SPORT" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport
-http://hydratv.pro/live/Mah2/432266432/472844.ts
-#EXTINF:-1 group-title="📁YES SPORT" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport 2
-http://hydratv.pro/live/Mah2/432266432/472842.ts
-#EXTINF:-1 group-title="📁YES SPORT" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport 3
-http://hydratv.pro/live/Mah2/432266432/472840.ts
-#EXTINF:-1 group-title="📁YES SPORT" tvg-logo="https://i.postimg.cc/rpH4wLYF/Yes-Logo.jpg",Yes Sport 4
-http://hydratv.pro/live/Mah2/432266432/472838.ts
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
